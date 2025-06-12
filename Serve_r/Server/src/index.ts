@@ -11,8 +11,7 @@ import { generateShareLink } from "./utils";
 import cors from "cors";
 
 // Configuration constants
-const JWT_SECRET: string = "adilraj123456789";
-const MONGO_URI: string = "mongodb://localhost:27017/";
+
 const PORT: number = 3000;
 
 const app = express();
