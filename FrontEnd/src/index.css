@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-500-rgb: 120, 160, 255;     /* brighter blue */
+  --secondary-500-rgb: 120, 130, 255;  /* brighter indigo */
+  --tertiary-500-rgb: 170, 110, 255;   /* brighter purple */
+}
+
+@layer base {
+  body {
+    @apply bg-gray-200 min-h-screen;
+  }
+}

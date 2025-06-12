@@ -1,0 +1,29 @@
+{
+  "name": "second-brain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd Server && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UzairKhan99/Second-Brain-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UzairKhan99/Second-Brain-/issues"
+  },
+  "homepage": "https://github.com/UzairKhan99/Second-Brain-#readme",
+  "description": ""
+}

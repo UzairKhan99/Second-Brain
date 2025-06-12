@@ -1,0 +1,19 @@
+{
+  "name": "second-brain",
+  "version": "1.0.0",
+  "description": "Full Stack application for storing twitter and youtube links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UzairKhan99/Second-Brain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UzairKhan99/Second-Brain/issues"
+  },
+  "homepage": "https://github.com/UzairKhan99/Second-Brain#readme"
+}
